@@ -1,6 +1,6 @@
 = pmar
 
-Description goes here.
+Pry Me A River aka PMAR allows you to quickly comment in or out your Pry breakpoints.
 
 == Contributing to pmar
  
