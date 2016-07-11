@@ -1,0 +1,4 @@
+require 'lib/pmar.rb'
+
+pmar = PryMeARiver.new
+pmar.run

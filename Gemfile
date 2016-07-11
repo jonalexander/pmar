@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 ruby "2.2.3"
+gem "pmar"
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
