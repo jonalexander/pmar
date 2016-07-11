@@ -17,8 +17,8 @@ Juwelier::Tasks.new do |gem|
   gem.name = "pmar"
   gem.homepage = "http://github.com/jonalexander/pmar"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{PryMeARiver aka PMAR comments in/out your Pry breakpoints.}
+  gem.description = %Q{Coming soon.}
   gem.email = "jonathandalexander@gmail.com"
   gem.authors = ["Jonathan Alexander"]
 
