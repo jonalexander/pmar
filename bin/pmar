@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require 'lib/pmar.rb'
+require 'lib/pmar'
 
 pmar = PryMeARiver.new
 pmar.run

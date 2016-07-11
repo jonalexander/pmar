@@ -18,8 +18,8 @@ class PryMeARiver
 
 end
 
-pmar = PryMeARiver.new
-pmar.run
+# pmar = PryMeARiver.new
+# pmar.run
 
 # @@input_flag = ARGV
 
